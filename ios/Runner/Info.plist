@@ -28,6 +28,13 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app is required location access</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app is required location access</string>
+
+
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
