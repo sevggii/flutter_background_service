@@ -32,6 +32,8 @@ dependencies:
     sdk: flutter
   geolocator: ^9.0.2
   permission_handler: ^10.4.3
+  #every 15 minutes background_fetch: ^1.1.6
+  
   
 
   # The following adds the Cupertino Icons font to your application.
