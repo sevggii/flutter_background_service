@@ -1,7 +1,7 @@
 # Flutter Background Service
 
-## Flutter basic application features.
--Getting location information and permission message
+## Flutter basic application features
+-Getting location informationin background and permission message
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
